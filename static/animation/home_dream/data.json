@@ -12,7 +12,7 @@
       "id": "image_0",
       "w": 84,
       "h": 75,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_0.png",
       "e": 0
     },
@@ -20,7 +20,7 @@
       "id": "image_1",
       "w": 63,
       "h": 61,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_1.png",
       "e": 0
     },
@@ -28,7 +28,7 @@
       "id": "image_2",
       "w": 32,
       "h": 22,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_2.png",
       "e": 0
     },
@@ -36,7 +36,7 @@
       "id": "image_3",
       "w": 52,
       "h": 38,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_3.png",
       "e": 0
     },
@@ -44,7 +44,7 @@
       "id": "image_4",
       "w": 53,
       "h": 64,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_4.png",
       "e": 0
     },
@@ -52,7 +52,7 @@
       "id": "image_5",
       "w": 203,
       "h": 66,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_5.png",
       "e": 0
     },
@@ -60,7 +60,7 @@
       "id": "image_6",
       "w": 31,
       "h": 35,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_6.png",
       "e": 0
     },
@@ -68,7 +68,7 @@
       "id": "image_7",
       "w": 87,
       "h": 98,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_7.png",
       "e": 0
     },
@@ -76,7 +76,7 @@
       "id": "image_8",
       "w": 259,
       "h": 275,
-      "u": "/static/animation/home_dream/images/",
+      "u": "static/animation/home_dream/images/",
       "p": "img_8.png",
       "e": 0
     }
